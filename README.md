@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umesh-chauahan
+- 👋 Hi, I’m @Umesh-chauhan
 - 👀 I’m interested in Fullstack Web Devlopment
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ..building web apps
